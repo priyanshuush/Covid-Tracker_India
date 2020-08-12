@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/Covid-Tracker_India/static/css/main.eab24d3c.chunk.css",
-    "main.js": "/Covid-Tracker_India/static/js/main.8a98925c.chunk.js",
-    "main.js.map": "/Covid-Tracker_India/static/js/main.8a98925c.chunk.js.map",
+    "main.js": "/Covid-Tracker_India/static/js/main.dfbcf03d.chunk.js",
+    "main.js.map": "/Covid-Tracker_India/static/js/main.dfbcf03d.chunk.js.map",
     "runtime-main.js": "/Covid-Tracker_India/static/js/runtime-main.488ec0d4.js",
     "runtime-main.js.map": "/Covid-Tracker_India/static/js/runtime-main.488ec0d4.js.map",
-    "static/js/2.5172d301.chunk.js": "/Covid-Tracker_India/static/js/2.5172d301.chunk.js",
-    "static/js/2.5172d301.chunk.js.map": "/Covid-Tracker_India/static/js/2.5172d301.chunk.js.map",
+    "static/js/2.68707191.chunk.js": "/Covid-Tracker_India/static/js/2.68707191.chunk.js",
+    "static/js/2.68707191.chunk.js.map": "/Covid-Tracker_India/static/js/2.68707191.chunk.js.map",
     "index.html": "/Covid-Tracker_India/index.html",
-    "precache-manifest.72ee562d504681edca4cc8c9eb888844.js": "/Covid-Tracker_India/precache-manifest.72ee562d504681edca4cc8c9eb888844.js",
+    "precache-manifest.008b1b1999c22607201772939868bafb.js": "/Covid-Tracker_India/precache-manifest.008b1b1999c22607201772939868bafb.js",
     "service-worker.js": "/Covid-Tracker_India/service-worker.js",
     "static/css/main.eab24d3c.chunk.css.map": "/Covid-Tracker_India/static/css/main.eab24d3c.chunk.css.map",
-    "static/js/2.5172d301.chunk.js.LICENSE.txt": "/Covid-Tracker_India/static/js/2.5172d301.chunk.js.LICENSE.txt",
+    "static/js/2.68707191.chunk.js.LICENSE.txt": "/Covid-Tracker_India/static/js/2.68707191.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/Covid-Tracker_India/static/media/logo.dc62b3fa.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.488ec0d4.js",
-    "static/js/2.5172d301.chunk.js",
+    "static/js/2.68707191.chunk.js",
     "static/css/main.eab24d3c.chunk.css",
-    "static/js/main.8a98925c.chunk.js"
+    "static/js/main.dfbcf03d.chunk.js"
   ]
 }
