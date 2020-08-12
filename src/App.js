@@ -8,7 +8,7 @@ function App() {
 
   return(
     <StyleRoot>
-    <BrowserRouter basename={process.env.PUBLIC_URL} >
+    <BrowserRouter basename="https://pritishnagpal.github.io/Covid-Tracker_India" >
    
       <Routers />
      
