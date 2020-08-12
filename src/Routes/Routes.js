@@ -8,7 +8,7 @@ const Routers = () => {
 
     return(
     <Switch>
-      <Route exact path="/" component={Home} />
+      <Route exact path="/Covid-Tracker_India" component={Home} />
       <Route path="/Covid-Tracker_India/Maharashtra">
         <States title='Maharashtra'/>
       </Route>
