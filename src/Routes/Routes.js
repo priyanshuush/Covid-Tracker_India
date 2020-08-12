@@ -8,7 +8,7 @@ const Routers = () => {
 
     return(
     <Switch>
-      <Route exact path={process.env.PUBLIC_URL + '/'} component={Home} />
+      <Route exact path="/" component={Home} />
       <Route path="/Maharashtra">
         <States title='Maharashtra'/>
       </Route>

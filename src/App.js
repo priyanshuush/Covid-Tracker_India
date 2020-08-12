@@ -8,7 +8,7 @@ function App() {
 
   return(
     <StyleRoot>
-    <BrowserRouter>
+    <BrowserRouter basename={process.env.PUBLIC_URL} >
    
       <Routers />
      
