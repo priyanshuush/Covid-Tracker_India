@@ -117,7 +117,6 @@ const Routers = () => {
       <Route path="/Mizoram">
         <States title='Mizoram'/>
       </Route>
-      <Route exact path="" component={Notfound} />
     </Switch>
     )
   }
