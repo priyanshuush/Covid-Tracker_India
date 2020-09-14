@@ -1,19 +1,17 @@
 import React from 'react';
 import './App.css';
-import { BrowserRouter } from 'react-router-dom';
+import { HashRouter as Router } from 'react-router-dom';
 import Routers from './Routes/Routes';
-import { StyleRoot } from 'radium';
 
 function App() {
 
   return(
-    <StyleRoot>
-    <BrowserRouter basename="https://pritishnagpal.github.io/Covid-Tracker_India" >
+    <Router >
    
       <Routers />
-     
-    </BrowserRouter>
-    </StyleRoot>
+
+    </Router>
+    
   )
 
 }

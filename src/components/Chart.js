@@ -2,8 +2,6 @@ import React,{ useState, useEffect } from 'react';
 import {Line} from 'react-chartjs-2';
 import { useMediaQuery } from 'react-responsive';
 
-
-
 const Totalcaseschart = () => {
     const [data,setData] = useState({});
 
@@ -30,6 +28,7 @@ const Totalcaseschart = () => {
         fetch('https://api.covid19api.com/country/india')
         .then(res => res.json())
         .then(result => {
+            console.log(result)
             const recData ={};
             result.map(values => {
                 const val = values.Date.slice(0,5)+values.Date.slice(5,7);

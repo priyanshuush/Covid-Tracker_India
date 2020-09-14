@@ -27,6 +27,7 @@ const DeathChart = () => {
         fetch('https://api.covid19api.com/country/india')
         .then(res => res.json())
         .then(result => {
+            console.log(result)
             const recData ={};
             result.map(values => {
                 const val = values.Date.slice(0,5)+values.Date.slice(5,7);

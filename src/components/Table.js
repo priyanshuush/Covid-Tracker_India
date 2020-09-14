@@ -74,7 +74,7 @@ const stateData = () => {
           {rows.map((row) => (
             <TableRow key={row.state+row.confirmed}>
               <TableCell  align="left">
-                      <a style={styles} href={`/${row.state}`}>
+                      <a style={styles} href={`/Covid-Tracker_India/#/${row.state}`}>
                         {row.state}
                       </a>
               </TableCell>
